@@ -3,7 +3,7 @@
 蛇院美少女电子猫猫 **闪亮登场!**
 
 ## 更新日志
-**当前版本：1.1.0**
+**当前版本：1.1.1**
 
 - 最新日志：[点我](https://github.com/SoraSushi776/77Sun-Button/tree/main/update/LASTEST.md)
 - 更新日志记载：[点我](https://github.com/SoraSushi776/77Sun-Button/tree/main/update)
