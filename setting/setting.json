@@ -4,26 +4,35 @@
   "name": {
     "CN": {
       "title": "晴天按钮🌤",
-      "fullName": ""
-    },
-    "EN": {
-      "title": "77Sun🌤 Buttons",
-      "fullName": ""
+      "fullName": "晴天按钮🌤"
     }
   },
-  "readme": "",
+  "readme": "蛇院美少女电子猫猫 闪亮登场 ！",
   "header": {
     "icon": "img/logo.svg",
     "youtube": "",
     "twitter": "",
     "bilibili": "https://space.bilibili.com/1099371313/"
   },
-  "link": [],
+  "link": [
+    {
+      "name": "Hiiro按钮",
+      "url": "https: //hiiro.club/",
+      "background": "#F5C1BB",
+      "color": "#5F505F"
+    },
+    {
+      "name": "霜莹按钮",
+      "url": "https://eliro.top/",
+      "background": "#BFB8FF",
+      "color": "#35354B"
+    }
+  ],
   "footer": {
     "author": [
       {
         "name": "筱夕Sushi",
-        "url": ""
+        "url": "https://www.sushi810.com.cn"
       }
     ],
     "info": [
