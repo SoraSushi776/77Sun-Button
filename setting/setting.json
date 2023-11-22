@@ -1,0 +1,44 @@
+{
+  "i18n": false,
+  "neko_mimi": true,
+  "name": {
+    "CN": {
+      "title": "晴天按钮🌤",
+      "fullName": ""
+    },
+    "EN": {
+      "title": "77Sun🌤 Buttons",
+      "fullName": ""
+    }
+  },
+  "readme": "",
+  "header": {
+    "icon": "img/logo.svg",
+    "youtube": "",
+    "twitter": "",
+    "bilibili": "https://space.bilibili.com/1099371313/"
+  },
+  "link": [],
+  "footer": {
+    "author": [
+      {
+        "name": "筱夕Sushi",
+        "url": ""
+      }
+    ],
+    "info": [
+      "臭写代码的 现在是晴哥单推人！"
+    ],
+    "githubUrl": "https://github.com/SoraSushi776/77Sun-Button"
+  },
+  "console": {
+    "text": "",
+    "size": "",
+    "color": "",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "",
+  "CDN": ""
+}
