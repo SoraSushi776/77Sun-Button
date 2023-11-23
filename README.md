@@ -9,9 +9,10 @@
 - 更新日志记载：[点我](https://github.com/SoraSushi776/77Sun-Button/tree/main/update)
 
 ## 网址
-- **首用地址：[点我](https://77sun.sushi810.com.cn)**
+- **首用地址：[点我](https://www.sushi810.com.cn/)**
 - ~~备用地址1：[点我（已失效）](https://sorasushi776.github.io/77Sun-Button/)~~
-- 备用地址2：~~[点我（已失效）](http://sec.azurestu.top:8024/)~~
+- ~~备用地址2：[点我（已失效）](http://sec.azurestu.top:8024/)~~
+- 备用地址3：[点我](http://sushi810.com.cn:8024/)
 - 数字IP：[点我（不推荐）](http://211.101.245.243:8024/)
 - **如遇首用网址无法使用，请前往备用地址**
 
