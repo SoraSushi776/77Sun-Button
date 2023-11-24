@@ -1,0 +1,12 @@
+{
+  "category": [
+    {
+      "name": "voice",
+      "translate": {
+        "zh-CN": "语音",
+        "ja-JP": "音声"
+      }
+    }
+  ],
+  "voices": []
+}

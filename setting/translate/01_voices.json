@@ -887,7 +887,7 @@
       "zh-CN": "我是主播我说了算",
       "ja-JP": "我是主播我说了算"
     },
-    "category": "bad"
+    "category": "angry"
   },
   {
     "name": "我给你爆了！",
@@ -897,7 +897,7 @@
       "zh-CN": "我给你爆了！",
       "ja-JP": "我给你爆了！"
     },
-    "category": "bad"
+    "category": "angry"
   },
   {
     "name": "把她打醒",
@@ -907,7 +907,7 @@
       "zh-CN": "把她打醒",
       "ja-JP": "把她打醒"
     },
-    "category": "bad"
+    "category": "sad"
   },
   {
     "name": "报菜名的猫",
@@ -927,7 +927,7 @@
       "zh-CN": "无奈猫猫",
       "ja-JP": "无奈猫猫"
     },
-    "category": "bad"
+    "category": "sad"
   },
   {
     "name": "晴子吃醋了",
@@ -937,7 +937,7 @@
       "zh-CN": "晴子吃醋了",
       "ja-JP": "晴子吃醋了"
     },
-    "category": "bad"
+    "category": "sad"
   },
   {
     "name": "果然是外面有女人了。。",
@@ -947,7 +947,7 @@
       "zh-CN": "果然是外面有女人了。。",
       "ja-JP": "果然是外面有女人了。。"
     },
-    "category": "bad"
+    "category": "sad"
   },
   {
     "name": "没有711就活不下去的猫",
@@ -997,7 +997,7 @@
       "zh-CN": "纸片人怎么你了",
       "ja-JP": "纸片人怎么你了"
     },
-    "category": "bad"
+    "category": "angry"
   },
   {
     "name": "给我玩黄油！",
@@ -1047,6 +1047,306 @@
       "zh-CN": "那是你妈妈的问题啊！",
       "ja-JP": "那是你妈妈的问题啊！"
     },
-    "category": "bad"
+    "category": "angry"
+  },
+  {
+    "name": "bad language",
+    "path": "bad language.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "bad language",
+      "ja-JP": "bad language"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "〇掰人",
+    "path": "〇掰人.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "〇掰人",
+      "ja-JP": "〇掰人"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "不能让人吃是吧",
+    "path": "不能让人吃是吧.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "不能让人吃是吧",
+      "ja-JP": "不能让人吃是吧"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "你们要斐济杯干嘛",
+    "path": "你们要斐济杯干嘛.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "你们要斐济杯干嘛",
+      "ja-JP": "你们要斐济杯干嘛"
+    },
+    "category": "ero"
+  },
+  {
+    "name": "你好恶心啊",
+    "path": "你好恶心啊.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "你好恶心啊",
+      "ja-JP": "你好恶心啊"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "你的声音听起来像GEY",
+    "path": "你的声音听起来像GEY.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "你的声音听起来像GEY",
+      "ja-JP": "你的声音听起来像GEY"
+    },
+    "category": "man"
+  },
+  {
+    "name": "叫你们不要扣问号为什么还要一直扣",
+    "path": "叫你们不要扣问号为什么还要一直扣.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "叫你们不要扣问号为什么还要一直扣",
+      "ja-JP": "叫你们不要扣问号为什么还要一直扣"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "吃晴子鼻涕拌饭",
+    "path": "吃晴子鼻涕拌饭.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "吃晴子鼻涕拌饭",
+      "ja-JP": "吃晴子鼻涕拌饭"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "啊你不放屁的嘛",
+    "path": "啊你不放屁的嘛.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "啊你不放屁的嘛",
+      "ja-JP": "啊你不放屁的嘛"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "喜欢吗宝宝",
+    "path": "喜欢吗宝宝.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "喜欢吗宝宝",
+      "ja-JP": "喜欢吗宝宝"
+    },
+    "category": "man"
+  },
+  {
+    "name": "我大猛一好不好",
+    "path": "我大猛一好不好.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "我大猛一好不好",
+      "ja-JP": "我大猛一好不好"
+    },
+    "category": "man"
+  },
+  {
+    "name": "我很凶的",
+    "path": "我很凶的.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "我很凶的",
+      "ja-JP": "我很凶的"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "我怎么会耻辱下播！",
+    "path": "我怎么会耻辱下播！.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "我怎么会耻辱下播！",
+      "ja-JP": "我怎么会耻辱下播！"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "我是男生了",
+    "path": "我是男生了.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "我是男生了",
+      "ja-JP": "我是男生了"
+    },
+    "category": "man"
+  },
+  {
+    "name": "我更加逆天都是因为你们",
+    "path": "我更加逆天都是因为你们.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "我更加逆天都是因为你们",
+      "ja-JP": "我更加逆天都是因为你们"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "捐献眼角膜",
+    "path": "捐献眼角膜.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "捐献眼角膜",
+      "ja-JP": "捐献眼角膜"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "擦口水",
+    "path": "擦口水.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "擦口水",
+      "ja-JP": "擦口水"
+    },
+    "category": "ero"
+  },
+  {
+    "name": "昨天没答辩然后放屁超臭的",
+    "path": "昨天没答辩然后放屁超臭的.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "昨天没答辩然后放屁超臭的",
+      "ja-JP": "昨天没答辩然后放屁超臭的"
+    },
+    "category": "kawaii"
+  },
+  {
+    "name": "晴天猛男の发问",
+    "path": "晴天猛男の发问.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "晴天猛男の发问",
+      "ja-JP": "晴天猛男の发问"
+    },
+    "category": "man"
+  },
+  {
+    "name": "有左右手了要什么斐济杯",
+    "path": "有左右手了要什么斐济杯.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "有左右手了要什么斐济杯",
+      "ja-JP": "有左右手了要什么斐济杯"
+    },
+    "category": "ero"
+  },
+  {
+    "name": "注音符号特色",
+    "path": "注音符号特色.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "注音符号特色",
+      "ja-JP": "注音符号特色"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "结果",
+    "path": "结果.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "结果",
+      "ja-JP": "结果"
+    },
+    "category": "man"
+  },
+  {
+    "name": "被警告了",
+    "path": "被警告了.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "被警告了",
+      "ja-JP": "被警告了"
+    },
+    "category": "ero"
+  },
+  {
+    "name": "谁不行了？",
+    "path": "谁不行了？.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "谁不行了？",
+      "ja-JP": "谁不行了？"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "还是因为你太小了",
+    "path": "还是因为你太小了.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "还是因为你太小了",
+      "ja-JP": "还是因为你太小了"
+    },
+    "category": "ero"
+  },
+  {
+    "name": "迫害好友 1",
+    "path": "迫害好友 1.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "迫害好友 1",
+      "ja-JP": "迫害好友 1"
+    },
+    "category": "man"
+  },
+  {
+    "name": "迫害好友 2",
+    "path": "迫害好友 2.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "迫害好友 2",
+      "ja-JP": "迫害好友 2"
+    },
+    "category": "man"
+  },
+  {
+    "name": "迫害好友 3",
+    "path": "迫害好友 3.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "迫害好友 3",
+      "ja-JP": "迫害好友 3"
+    },
+    "category": "man"
+  },
+  {
+    "name": "那好那我就拉臭臭在你身上",
+    "path": "那好那我就拉臭臭在你身上.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "那好那我就拉臭臭在你身上",
+      "ja-JP": "那好那我就拉臭臭在你身上"
+    },
+    "category": "angry"
+  },
+  {
+    "name": "那我可以当你男朋友",
+    "path": "那我可以当你男朋友.mp3",
+    "date": "2023/11/24",
+    "translate": {
+      "zh-CN": "那我可以当你男朋友",
+      "ja-JP": "那我可以当你男朋友"
+    },
+    "category": "man"
   }
 ]
